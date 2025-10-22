@@ -1,0 +1,16 @@
+{
+    "name": "pink-calculator",
+    "version": "1.0.0",
+    "description": "A cute pink calculator desktop app using Electron",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "devDependencies": {
+      "electron": "^25.2.1"
+    },
+    "keywords": ["calculator", "electron", "pink", "desktop"],
+    "author": "Your Name",
+    "license": "MIT"
+  }
+  
